@@ -20,3 +20,5 @@ Combino desarrollo de software, análisis de datos y automatización para constr
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
+
+**Contacto:** [LinkedIn](https://linkedin.com/in/rodrigoalegre1) · rodrigoalegre210@gmail.com
